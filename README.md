@@ -1,5 +1,7 @@
 # smartcar
-SmartCar 2021.06~2021.07
+### SmartCar 
+
+SKKU, 2021.06~2021.07
 
 
 ### [Overall Design] <div align=center>
