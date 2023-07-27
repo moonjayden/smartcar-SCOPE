@@ -19,3 +19,5 @@
 
 ### [Result]
 https://www.youtube.com/watch?v=-0ASimt1-rM
+
+[![Video Label](http://img.youtube.com/vi/-0ASimt1-rM/0.jpg)](https://youtu.be/-0ASimt1-rM)
